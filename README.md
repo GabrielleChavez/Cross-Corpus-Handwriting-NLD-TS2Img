@@ -1,1 +1,1 @@
-# CROSS-Corpus-Handwriting-NDD-TS2Img
+# Cross-Corpus-Handwriting-NLD-TS2Img
